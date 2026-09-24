@@ -13,6 +13,7 @@ flowchart TD
 | --- | --- | --- |
 | [methode-agents](https://github.com/Electro-agents/methode-agents) | Suite de 10 prompts, architecture mutable, modèle de nouvel agent | Stable |
 | [greenfit-coach](https://github.com/Electro-agents/greenfit-coach) | GREENFIT AI, coach sportif | v1.2 : prompts 0 à 9 exécutés, application locale avec mode démo · évals complètes à lancer |
+| [assistant-juridique](https://github.com/Electro-agents/assistant-juridique) | Assistant juridique pour TPE | Créé : prompt 0 à lancer |
 
 **Principes** : le système le plus simple qui atteint les critères · stable au début, variable à la fin (cache) · le calcul reste en code · aucun changement sans évals · jamais la triade létale.
 
